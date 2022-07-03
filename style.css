@@ -94,6 +94,11 @@ nav a:hover {
   color: black;
 }
 
+nav > a.disabled {
+  color: #ccc;
+  pointer-events: none;
+}
+
 /* Live data module */
 div.live-data {
   float: right;
