@@ -12,7 +12,7 @@ html, body {
   background: url(background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  overflow: visible;
+  overflow: auto;
   font-family: 'San Francisco', sans-serif;
 }
 
