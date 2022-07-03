@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: url(background.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: 'San Francisco', sans-serif;
+}
+
+
+/* The main box */
+.box {
+  border-radius: 5px;
+  width: 50%;
+  min-width: 300px;
+  background: rgba(0,0,0,0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  backdrop-filter: blur(2px);
+}
+
+.box img {
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+}
+
+.box h1 {
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 300;
+}
+
+.box h2 {
+  font-size: 25px;
+  letter-spacing: 3px;
+  font-weight: 400;
+}
+
+.box p {
+  text-align: justify;
+}
+
+.box li {
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+
+.box li a {
+  color: white;
+  text-decoration: none;
+  font-size: 60px;
+  transition: all ease-in-out 250ms;
+}
+
+.box li a:hover {
+  color: #b9b9b9;
+}
+
+/* The navigation bar */
+nav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; 
+  top: 0; 
+  width: 100%; 
+  z-index: 2;
+}
+
+nav > a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background: #ddd;
+  color: black;
+}
+
+/* Live data module */
+div.live-data {
+  float: right;
+  color: white;
+}
+
+div.live-data a {
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+div.live-data a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+div.live-data ul {
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 0;
+}
+
+div.live-data li {
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
