@@ -19,5 +19,5 @@ let me;
 [📷 Instagram](https://instagram.com/samuelllim.exe)  
 [💻 GitHub](https://github.com/samuellim-exe)  
 [🐦 Twitter](https://twitter.com/samuellim09)  
-[📬 samuellim.exe@gmail.com](mailto:samuellim.exe@gmail.com)
+[📬 samuellim.exe@gmail.com](mailto:samuellim.exe@gmail.com), 
 [samlimyisheng@gmail.com](mailto:samlimyisheng@gmail.com)
