@@ -28,7 +28,7 @@ html, body {
   margin: auto;
   margin-top: 5%;
   color: white;
-  backdrop-filter: blur(2px);
+  backdrop-filter: blur(4px);
 }
 
 .box img {
@@ -127,6 +127,10 @@ div.live-data li {
   list-style: none;
 }
 
-.text-center{
-text-align: center
+.description{
+text-align: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 17px;
+  
 }
