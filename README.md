@@ -2,10 +2,11 @@
 let me;
 
  me.name = "Samuel Lim";
- me.email = ["samlimyisheng@gmail.com", "samuellim.exe@gmail.com"];
+ me.email = ["samuellim.exe@gmail.com", "samlimyisheng@gmail.com"];
  me.socialMedia = {
-  "Instagram": "https://www.instagram.com/samuellim.exe/",
-  "GitHub": "https://github.com/SamuelCodez/",
+  "Instagram": "@samuellim.exe",
+  "GitHub": "@samuellim-exe",
+  "Twitter": "https://twitter.com/samuellim09";
   "Website": "https://samuellim-exe.github.io/samuellim-exe/"
  };
  me.languages = ["HTML", "CSS", "JavaScript"];
@@ -14,4 +15,9 @@ let me;
  
  module.exports = me;
 ```
-[My Website](https://samuellim-exe.github.io/samuellim-exe/)
+[🌐 My Website](https://samuellim-exe.github.io/samuellim-exe/)
+[📷 Instagram](https://instagram.com/samuelllim.exe)
+[💻 GitHub](https://github.com/samuellim-exe)
+[🐦 Twitter](https://twitter.com/samuellim09)
+[📬 samuellim.exe@gmail.com](mailto:samuellim.exe@gmail.com)
+[📪 samlimyisheng@gmail.com](mailto:samlimyisheng@gmail.com)
