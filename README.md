@@ -5,7 +5,7 @@ let me;
  me.socialMedia = {
   "Instagram": "https://www.instagram.com/samuellim.exe/",
   "GitHub": "https://github.com/SamuelCodez/",
-  "Website": ["https://samuellim-exe.github.io/samuellim-exe/"](https://samuellim-exe.github.io/samuellim-exe/)
+  "Website": https://samuellim-exe.github.io/samuellim-exe/
  };
  me.languages = ["HTML", "CSS", "JavaScript"];
  me.frameworks = ["React", "Next.JS"];
@@ -13,3 +13,4 @@ let me;
  
  module.exports = me;
 ```
+[My Website](https://samuellim-exe.github.io/samuellim-exe/)
