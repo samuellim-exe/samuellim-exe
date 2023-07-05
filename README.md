@@ -15,9 +15,9 @@ let me;
  
  module.exports = me;
 ```
-[🌐 My Website](https://samuellim-exe.github.io/samuellim-exe/)
-[📷 Instagram](https://instagram.com/samuelllim.exe)
-[💻 GitHub](https://github.com/samuellim-exe)
-[🐦 Twitter](https://twitter.com/samuellim09)
+[🌐 My Website](https://samuellim-exe.github.io/samuellim-exe/)  
+[📷 Instagram](https://instagram.com/samuelllim.exe)  
+[💻 GitHub](https://github.com/samuellim-exe)  
+[🐦 Twitter](https://twitter.com/samuellim09)  
 [📬 samuellim.exe@gmail.com](mailto:samuellim.exe@gmail.com)
-[📪 samlimyisheng@gmail.com](mailto:samlimyisheng@gmail.com)
+[samlimyisheng@gmail.com](mailto:samlimyisheng@gmail.com)
