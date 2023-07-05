@@ -2,6 +2,7 @@
 let me;
 
  me.name = "Samuel Lim";
+ me.email = ["samlimyisheng@gmail.com", "samuellim.exe@gmail.com"];
  me.socialMedia = {
   "Instagram": "https://www.instagram.com/samuellim.exe/",
   "GitHub": "https://github.com/SamuelCodez/",
